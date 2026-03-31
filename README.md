@@ -1,4 +1,4 @@
-# ✨ Stellar Pay – Simple XLM Transfer dApp
+# ✨ Stellar Pay - Simple XLM Transfer dApp
 
 A sleek and beginner-friendly decentralized application (dApp) built on the **Stellar Testnet** that allows users to connect their wallet, view balance, and send XLM seamlessly.
 
