@@ -54,23 +54,13 @@ npm run dev
 ## 📸 Screenshots
 
 ### 🔗 Wallet Connected
-
-(Add screenshot here)
-
-### 💰 Balance Display
-
-(Add screenshot here)
-
-### 🚀 Successful Transaction
-
-### 🔗 Wallet Connected
-![Wallet](assets/wallet.png)
+![Wallet](assests/wallet.png)
 
 ### 💰 Balance Display
-![Balance](assets/balance.png)
+![Balance](assests/balance.png)
 
 ### 🚀 Successful Transaction
-![Transaction](assets/tx.png)
+![Transaction](assests/tx.png)
 
 ---
 
